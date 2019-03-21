@@ -93,7 +93,7 @@ p {
 footer {
     text-align: right;
     padding-right: 15px;
-    margin-bottom: 0px;
+    bottom: 0px;
 }
 
 a {
